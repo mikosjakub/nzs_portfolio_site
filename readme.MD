@@ -1,3 +1,5 @@
+Preview: https://mikosjakub.github.io/nzs_portfolio_site/
+
 [EN]
 Simple portfolio page I created candidating for IT director in Independent Student's Association on Wroclaw University. (Polish only) (archive)
 
